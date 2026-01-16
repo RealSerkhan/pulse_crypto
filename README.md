@@ -112,12 +112,12 @@ flutter pub get
 ## Next Steps
 
 To extend this project:
-1. **WebSocket Integration**: Add real-time price updates
-2. **Local Caching**: Use Hive for offline support
-3. **Unit Tests**: Add tests for use cases and repositories
-4. **Widget Tests**: Test UI components
-5. **Dark Mode**: Add theme switching
-6. **Charts**: Add price charts using fl_chart
+
+1. **Local Caching**: Use Hive for offline support
+2. **Unit Tests**: Add tests for use cases and repositories
+3. **Widget Tests**: Test UI components
+4. **Dark Mode**: Add theme switching
+5. **Charts**: Add price charts using fl_chart
 
 ## Assessment Completion
 
