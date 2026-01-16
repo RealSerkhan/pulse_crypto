@@ -151,3 +151,4 @@ lib/
 - **HTTP** - REST API calls
 - **Material Design** - UI/UX Guidelines
 # pulse_crypto
+# pulse_crypto
